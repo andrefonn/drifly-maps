@@ -1,0 +1,6 @@
+# Temporary downloads, regional extracts, and local binaries (never commit)
+work/
+bin/
+out/
+__pycache__/
+*.pyc
